@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo analizar las empresas del S&P 500 a través de
 - `README.md`: Documento explicativo del proyecto.
 
 1. Clona este repositorio:
-git clone https://github.com/stagiraldoce/SP_Analysis
+git clone https://github.com/Claujulmar/SP_Analysis
 cd SP_Analysis
 2. Instala las dependencias necesarias: pip install -r requirements.txt
 3. Configura la conexión a SQL Server en los scripts de las fases correspondientes.
